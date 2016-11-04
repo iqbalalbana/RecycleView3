@@ -141,7 +141,6 @@ public class MainActivity extends AppCompatActivity implements HotelAdapter.IHot
         mAdapter.notifyDataSetChanged();
     }
 
-
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
