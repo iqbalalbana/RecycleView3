@@ -125,4 +125,3 @@ public class InputActivity extends AppCompatActivity {
         }
     }
 }
-
