@@ -27,6 +27,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="id.sch.smktelkom_mlg.learn.recyclerview3.MainActivity" />
         </activity>
+        <activity android:name=".InputActivity"></activity>
     </application>
 
 </manifest>
